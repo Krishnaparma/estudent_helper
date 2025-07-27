@@ -6,3 +6,4 @@ scikit-learn
 xgboost
 plotly
 openpyxl
+fpdf
